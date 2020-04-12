@@ -14,6 +14,8 @@ namespace ConsoleApp8
                 Console.WriteLine(x);
             }
             Console.ReadLine();
+            Console.ReadLine();
+
 
         }
 
